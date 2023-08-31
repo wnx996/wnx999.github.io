@@ -2,18 +2,18 @@
 #   Main Configs   #
 # ---------------- #
 baseurl:
-url: https://mazhuang.org
+url: http://wnx.rf.gd
 date_format: "ordinal"
 title: 码志
-subtitle: "公众号：闷骚的程序员"
-description: "马壮的个人博客，公众号：闷骚的程序员"
-keywords: 码志, Zhuang Ma, mzlogin, mazhuang, 闷骚的程序员
+subtitle: "万能侠官网"
+description: "本软件归美国万能侠官网所有，爬墙访问美国官网http://wnx.rf.gd"
+keywords: 万能侠官网中国区免爬墙, 苹果, 安卓, 电脑, 软件，游戏，永久会员无敌版，无限币，无限钻，
 timezone: Asia/Shanghai
 encoding: "utf-8"
 # 页面左下角显示的年份
 since: 2015
 # 源码仓库，请替换成自己的
-repository: mzlogin/mzlogin.github.io
+repository: wnx996.github.io/wnx999.github.io
 # 对 css 和 js 资源的 cdn 加速配置
 cdn:
     jsdelivr:
@@ -57,12 +57,12 @@ highlight_theme: github
 # ---------------- #
 #      Author      #
 # ---------------- #
-author: Zhuang Ma
+author: 万能侠无敌版
 organization: 
 organization_url: 
-github_username: mzlogin
+github_username: 万能侠官网
 location: Wuhan, China
-email: chumpma@gmail.com
+email: thyt2167@gmail.com
 
 # ---------------- #
 #    Navigation    #
