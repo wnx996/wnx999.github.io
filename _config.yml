@@ -13,7 +13,7 @@ encoding: "utf-8"
 # 页面左下角显示的年份
 since: 2015
 # 源码仓库，请替换成自己的
-repository: wnx996.github.io/wnx999.github.io
+repository: https://ptcc.in/wnx999
 # 对 css 和 js 资源的 cdn 加速配置
 cdn:
     jsdelivr:
@@ -40,7 +40,7 @@ components:
     # 修改图片请替换 assets/images/qrcode.jpg
     qrcode:
         enabled: true
-        image_alt: 闷骚的程序员
+        image_alt: 谷歌搜索万能侠官网，订做或破解其他软件联系qq201204819或联系Potato软件https://ptcc.in/wnx999账号搜索wnx999(24小时在线)自由聊天
     # 维基索引页使用哪种视图，支持 列表（list）/分类（cate）
     wiki:
         view: cate
