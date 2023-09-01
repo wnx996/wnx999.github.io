@@ -2,9 +2,9 @@
 #   Main Configs   #
 # ---------------- #
 baseurl:
-url: wnx996.github.io/wnx999.github.io/
+url: https://wnx996.github.io/wnx999.github.io
 date_format: "ordinal"
-title: 码志
+title: 刷新
 subtitle: "万能侠官网"
 description: "本软件归美国万能侠官网所有，爬墙访问美国官网http://wnx.rf.gd"
 keywords: 万能侠官网中国区免爬墙, 苹果, 安卓, 电脑, 软件，游戏，永久会员无敌版，无限币，无限钻，
